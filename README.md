@@ -10,9 +10,6 @@
   </p>
 
   <p>
-    <a href="https://github.com/GulShair6">
-      <img src="https://img.shields.io/badge/GitHub-GulShair6-0f172a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0f172a&color=4f46e5" />
-    </a>
     <a href="https://linkedin.com/in/gulshair625">
       <img src="https://img.shields.io/badge/LinkedIn-Gul%20Shair%20Shakeel-0f172a?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0f172a&color=4f46e5" />
     </a>
