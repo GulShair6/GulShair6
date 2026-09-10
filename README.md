@@ -1,121 +1,63 @@
-<!-- README.md -->
-
 <div align="center">
 
-  <h1>Gul Shair 👋</h1>
-  <h3>Machine Learning Engineer · LLM Systems Architect · Generative AI</h3>
+# Gul Shair Shakeel
 
-  <p>
-    Designing Scalable AI Systems · Optimizing LLM Architectures · Deploying Production ML
-  </p>
+**Senior AI/ML Engineer building agentic systems, web-agent evaluations, and real-time voice AI.**
 
-  <p>
-    <a href="https://linkedin.com/in/gulshair625">
-      <img src="https://img.shields.io/badge/LinkedIn-Gul%20Shair%20Shakeel-0f172a?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0f172a&color=4f46e5" />
-    </a>
-    <a href="mailto:gulshair625@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0f172a&color=4f46e5" />
-    </a>
-  </p>
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=4F46E5&center=true&vCenter=true&width=750&lines=LLM+Systems+%26+Agentic+RAG+Architectures;Production-Grade+AI+Pipelines;Latency+Optimization+%26+Cloud+Deployment;From+Research+to+Scalable+Systems"
-    alt="Typing SVG"
-  />
+[LinkedIn](https://www.linkedin.com/in/gulshair625/) · [Email](mailto:gulshair625@gmail.com) · [Portfolio source](https://github.com/GulShair6/gulshair-portfolio-source)
 
 </div>
 
----
+## Engineering focus
 
-## 🧠 Executive Profile
+I work on the systems around the model: grounded context, tools, state, evaluation, streaming, and the delivery work required to make AI useful in production.
 
-Machine Learning Engineer with 3+ years of experience architecting, optimizing, and deploying **production-grade AI systems** across:
+- **Agentic systems:** retrieval-grounded assistants and carefully scoped tool workflows.
+- **Agent evaluation:** dynamic tasks and controlled environments that verify whether web agents completed the work.
+- **Real-time AI:** live speech pipelines spanning telephony, VAD, transcription, diarization, synthesis, and deployment.
 
-- Large Language Models & Agentic RAG
-- Computer Vision (ViTs, CNNs)
-- Generative AI (Stable Diffusion)
-- Real-Time Voice AI Systems
-- Cloud-native ML Infrastructure
+## Selected systems
 
-Focused on **scalable architecture, inference optimization, evaluation frameworks, and end-to-end AI deployment.**
+### Infinite Web Arena
 
----
+Contributed task generation and evaluation, demo website development, and web-agent workflows in a Bittensor-based environment. The benchmark uses generated sites, real browser execution, DOM state, and backend events to make task outcomes observable.
 
-## 🏗 Core Expertise
+[View the public project note](https://www.linkedin.com/posts/gulshair625_ai-llm-webagents-activity-7336378370135318528-0VC3)
 
-### 🔹 LLM & Agent Systems
-- GPT-4, Claude, Gemini, LLaMA, Mistral
-- Agentic RAG architectures
-- Tool calling & function orchestration
-- Multi-agent workflows (LangChain, AutoGen)
-- LLM evaluation & benchmarking systems
-- Vector search optimization (MongoDB, Pinecone, FAISS)
+### Healthcare Agentic Assistant
 
-### 🔹 Production ML Engineering
-- End-to-end ML pipelines
-- Latency optimization (10s → 3–4s RAG reduction)
-- Model fine-tuning (ViTs, CNNs, Stable Diffusion)
-- Real-time ASR + TTS integration
-- Microservices-based AI systems
+Contributed to a LangGraph-based assistant that helps healthcare practitioners answer patient-related questions and perform relevant clinical or administrative tasks. The work is anonymized to protect employer and domain-sensitive details.
 
-### 🔹 Cloud & MLOps
-- Azure ML, Azure VMs, Azure AI Studio
-- AWS EC2, Lambda
-- Dockerized AI services
-- CI/CD pipelines (GitHub Actions)
-- Scalable inference deployment
+### Real-Time Voice AI
 
----
+Developed a deployed voice-to-voice pipeline connecting Twilio and Socket.IO streaming with Silero VAD, Distil-Whisper ASR, NVIDIA HiFi-GAN TTS, and μ-law audio. Later managed a meeting-intelligence system spanning Raspberry Pi, coordination, and dedicated AI services for transcription, diarization, and speaker classification.
 
-## 💼 Professional Experience
+## Experience
 
-### Machine Learning Engineer — Rev9 Solutions  
-📅 March 2023 – Present  
+### REV9 Solutions — Senior AI/ML Engineer
 
-- 🎯 Achieved **90%+ accuracy** in medical imaging systems (Vision Transformers & CNNs)
-- ⚡ Architected and optimized RAG pipeline reducing response latency from ~10s → ~3–4s
-- 🎙 Engineered real-time Voice-to-Voice AI system integrating ASR, TTS & LLMs
-- 🧠 Designed Agentic RAG architecture with vector search optimization
-- 🎨 Fine-tuned Stable Diffusion 2.1 (DreamBooth) for domain-specific image generation
-- ☁️ Deployed scalable AI microservices on Azure with Docker & CI/CD
+May 2026–Present
 
----
+Managing meeting-intelligence development and contributing to a practitioner-facing agentic healthcare assistant.
 
-## 🔬 Research
+### REV9 Solutions — Machine Learning Engineer
 
-📘 **Identification of Paddy Disease Along Its Processing Time (2023)**  
-🔗 https://www.researchgate.net/publication/371542742_IDENTIFICATION_OF_PADDY_DISEASE_ALONG_ITS_PROCESSING_TIME  
+July 2023–May 2026
 
----
+Developed real-time voice AI, contributed to Infinite Web Arena, built AI-enabled lead workflows, and coordinated implementation and deployment.
 
-## 📜 Certifications
+### REV9 Solutions — Artificial Intelligence Intern
 
-🎓 Machine Learning Specialization – Andrew Ng  
-🔗 https://www.coursera.org/account/accomplishments/specialization/ZUT83WBUB8CP  
+March 2023–July 2023
 
-🎓 Deep Learning Specialization  
-🔗 https://www.credly.com/badges/d15f5245-9037-4836-ae7f-77ac0980d4ff/linked_in_profile  
+Worked on data analysis, annotated-image augmentation, affine transformations, and computer-vision research.
 
----
+## Additional work
 
-## 📊 Engineering Activity
+- **Outbound Intelligence:** agent-based lead discovery, enrichment, personalized outreach, and auditable CRM state handoffs.
+- **Published research:** co-author of [Identification of Paddy Disease Along Its Processing Time](https://doi.org/10.55197/qjssh.v4i3.251).
+- **Education:** BS Computer Science, University of the Punjab, 2023.
 
-<p align="center">
+## Contact
 
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=GulShair6&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=GulShair6&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-
-</p>
-
----
-
-<p align="center">
-  <em>"Production AI is architecture, optimization, and disciplined engineering."</em>
-</p>
+For senior AI engineering opportunities, email [gulshair625@gmail.com](mailto:gulshair625@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/gulshair625/).
