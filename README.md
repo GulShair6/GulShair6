@@ -34,23 +34,11 @@ Developed a deployed voice-to-voice pipeline connecting Twilio and Socket.IO str
 
 ## Experience
 
-### REV9 Solutions — Senior AI/ML Engineer
+### REV9 Solutions — AI Systems Engineering
 
-May 2026–Present
+March 2023–Present
 
-Managing meeting-intelligence development and contributing to a practitioner-facing agentic healthcare assistant.
-
-### REV9 Solutions — Machine Learning Engineer
-
-July 2023–May 2026
-
-Developed real-time voice AI, contributed to Infinite Web Arena, built AI-enabled lead workflows, and coordinated implementation and deployment.
-
-### REV9 Solutions — Artificial Intelligence Intern
-
-March 2023–July 2023
-
-Worked on data analysis, annotated-image augmentation, affine transformations, and computer-vision research.
+Built and delivered work across real-time voice AI, web-agent evaluation, AI-enabled lead workflows, meeting intelligence, and practitioner-facing agentic systems.
 
 ## Additional work
 
