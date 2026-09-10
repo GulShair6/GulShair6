@@ -4,7 +4,7 @@
 
 **Senior AI/ML Engineer building agentic systems, web-agent evaluations, and real-time voice AI.**
 
-[LinkedIn](https://www.linkedin.com/in/gulshair625/) · [Email](mailto:gulshair625@gmail.com) · [Portfolio source](https://github.com/GulShair6/gulshair-portfolio-source)
+[Portfolio](https://gulshair-portfolio-source.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/gulshair625/) · [Email](mailto:gulshair625@gmail.com)
 
 </div>
 
